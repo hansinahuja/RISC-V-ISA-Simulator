@@ -23,8 +23,7 @@
 	jalr:
 		jalr rd immed(rs1)
 
-### Note : jalr is different from I Type as we had followed the version similar to https://www.kvakil.me/venus
-#### Note : We recommend cloning the source directly from https://github.com/Ekan5h/RISC-V-ISA-Simulator directly to set it up.
+
 ## Instructions to setup GUI for Phase 3 (incorporates Phase 2 as well)
 1.	Extract RISCVSim.tar.gz
 2.	Run the install script
@@ -49,12 +48,3 @@ Example 2: <br />
 Example 3: <br />
 	make p3 INP=fib
 #### Note: File needs to be in same directory as the Makefile
-
-## Contributions
-As this was a team project so it is difficult to completely segregate out the work done by each us but the following would give some outline. <br />
-Sakshay - I Type <br />
-Atul - S Type <br />
-Hansin - SB Type <br />
-Paras - R UJ Type <br />
-Ekansh- U and GUI <br />
-### Note- It was not strictly followed, and we helped each other in both the phases.
