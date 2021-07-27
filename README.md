@@ -1,11 +1,6 @@
 # RISC-V Simualtor
 
-### Team Details
-	Paras Goyal	2018CSB1111
-	Ekansh Mahendru	2018CSB1087
-	Hansin Ahuja	2018CSB1094
-	Sakshay Mahna	2018CSB1119
-	Atul Tiwari	2018CSB1077
+Please refer to the design documentation for more details.
 
 ### Instruction Formats
 	R-Type:
